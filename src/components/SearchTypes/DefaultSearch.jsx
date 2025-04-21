@@ -56,7 +56,7 @@ const DefaultSearch = ({ results }) => {
             {loading ? (
                 <div className="bg-yellow-50 dark:bg-yellow-900 p-5 rounded-xl border-l-4 border-yellow-500 animate-pulse">
                     <h2 className="text-lg font-bold text-yellow-800 dark:text-yellow-200 mb-2">
-                        Mazmun düzüilýär...
+                        Mazmun düzilýär...
                     </h2>
                     <div className="h-4 bg-yellow-200 dark:bg-yellow-700 rounded mb-2 w-5/6"></div>
                     <div className="h-4 bg-yellow-200 dark:bg-yellow-700 rounded mb-2 w-4/6"></div>
